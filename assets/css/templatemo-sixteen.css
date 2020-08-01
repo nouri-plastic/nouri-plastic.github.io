@@ -964,6 +964,7 @@ footer .inner-content p a {
 	}
 	.product-item .down-content h6 {
 		position: absolute!important;
+		text-align: right;
 		top: 30px!important;
 		left: 30px!important;
 	}
