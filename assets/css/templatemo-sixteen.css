@@ -960,16 +960,16 @@ footer .inner-content p a {
 	}
 	.product-item .down-content h4 {
 		margin-bottom: 20px!important;
-		float:right;
+		text-align: right;
 	}
 	.product-item .down-content h6 {
 		position: absolute!important;
 		top: 30px!important;
-		right: 30px!important;
+		left: 30px!important;
 	}
 	.product-item .down-content span {
 		position: absolute!important;
-		right: 30px!important;
+		left: 30px!important;
 		bottom: 30px!important;
 	}
 	.best-features .left-content {
