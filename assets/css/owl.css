@@ -91,7 +91,7 @@
   .owl-carousel.owl-rtl {
     direction: rtl; }
   .owl-carousel.owl-rtl .owl-item {
-    float: right; }
+    float: left; }
 
 /* No Js */
 .no-js .owl-carousel {
