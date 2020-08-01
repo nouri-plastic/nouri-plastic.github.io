@@ -13,9 +13,9 @@
  * FONT-FACE
  * ====================================================================================================================*/
 @font-face {
-  font-family: 'B Nazanin.ttf';
-  src: url('../fonts/B Nazanin.ttf');
-  src: url('../fonts/B Nazanin.ttf') format('truetype'), url('../fonts/B Nazanin.ttf') format('truetype'), url('../fonts/B Nazanin.ttf') format('truetype'), url('../fonts/flexslider-icon.svg#flexslider-icon') format('svg');
+  font-family: 'flexslider-icon';
+  src: url('../fonts/flexslider-icon.eot');
+  src: url('../fonts/flexslider-icon.eot?#iefix') format('embedded-opentype'), url('../fonts/flexslider-icon.woff') format('woff'), url('../fonts/flexslider-icon.ttf') format('truetype'), url('../fonts/flexslider-icon.svg#flexslider-icon') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -152,7 +152,7 @@ html[xmlns] .flexslider .slides {
 }
 .flex-direction-nav .flex-next {
   right: -50px;
-  text-align: left;
+  text-align: right;
 }
 .flexslider:hover .flex-direction-nav .flex-prev {
   opacity: 0.7;
@@ -243,7 +243,7 @@ html[xmlns] .flexslider .slides {
 }
 .flex-control-thumbs li {
   width: 25%;
-  float: right;
+  float: left;
   margin: 0;
 }
 .flex-control-thumbs img {
