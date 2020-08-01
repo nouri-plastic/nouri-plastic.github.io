@@ -243,7 +243,7 @@ html[xmlns] .flexslider .slides {
 }
 .flex-control-thumbs li {
   width: 25%;
-  float: left;
+  float: right;
   margin: 0;
 }
 .flex-control-thumbs img {
