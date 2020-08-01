@@ -19,11 +19,13 @@ p {
 }
 a {
 	text-decoration: none!important;
+	text-align: right;
 }
 ul {
 	padding: 0;
 	margin: 0;
 	list-style: none;
+	text-align: right;
 }
 
 h1,h2,h3,h4,h5,h6 {
@@ -958,6 +960,7 @@ footer .inner-content p a {
 		margin-top: 0px;
 		display: block;
 		margin-bottom: 20px;
+		text-align: right;
 	}
 	.product-item .down-content h4 {
 		margin-bottom: 20px!important;
