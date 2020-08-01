@@ -521,7 +521,7 @@ header .navbar {
 	font-weight: 300;
 	transition: all .3s;
 	position: relative;
-	padding-left: 13px;
+	padding-right: 13px;
 }
 
 .best-features ul.featured-list li a:before {
