@@ -152,7 +152,7 @@ html[xmlns] .flexslider .slides {
 }
 .flex-direction-nav .flex-next {
   right: -50px;
-  text-align: right;
+  text-align: left;
 }
 .flexslider:hover .flex-direction-nav .flex-prev {
   opacity: 0.7;
