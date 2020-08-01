@@ -26,7 +26,6 @@ ul {
 	padding: 0;
 	margin: 0;
 	list-style: none;
-	text-align: right;
 }
 
 h1,h2,h3,h4,h5,h6 {
@@ -510,7 +509,6 @@ header .navbar {
 .best-features ul.featured-list li {
 	display: block;
 	margin-bottom: 10px;
-	text-align: right;
 }
 
 .best-features p {
@@ -523,8 +521,7 @@ header .navbar {
 	font-weight: 300;
 	transition: all .3s;
 	position: relative;
-	padding-right: 13px;
-	
+	padding-left: 13px;
 }
 
 .best-features ul.featured-list li a:before {
