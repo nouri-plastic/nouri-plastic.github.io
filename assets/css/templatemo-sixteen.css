@@ -474,11 +474,13 @@ header .navbar {
 
 .about-features {
 	margin-top: 100px!important;
+	text-align: right;
 }
 
 .about-features p {
 	border-bottom: 1px solid #eee;
 	padding-bottom: 20px;
+	text-align: right;
 }
 
 .about-features .container .row {
@@ -488,6 +490,7 @@ header .navbar {
 
 .best-features {
 	margin-top: 50px;
+	text-align: right;
 }
 
 .best-features .container .row {
@@ -509,6 +512,7 @@ header .navbar {
 .best-features ul.featured-list li {
 	display: block;
 	margin-bottom: 10px;
+	text-align: right;
 }
 
 .best-features p {
@@ -521,7 +525,7 @@ header .navbar {
 	font-weight: 300;
 	transition: all .3s;
 	position: relative;
-	padding-right: 13px;
+	padding-left: 13px;
 }
 
 .best-features ul.featured-list li a:before {
